@@ -52,6 +52,3 @@ The performance of each algorithm was evaluated using the following metrics:
 - **F1 Score**
 
 The Random Forest algorithm emerged as the top performer with high accuracy, precision, recall, and F1-score.
-
-## File Structure
-
