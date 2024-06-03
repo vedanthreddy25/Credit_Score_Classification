@@ -18,10 +18,6 @@ To run this project, you need to have Python and the following libraries install
 - seaborn
 - jupyter
 
-You can install the necessary libraries using pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ## Algorithms Used
 
