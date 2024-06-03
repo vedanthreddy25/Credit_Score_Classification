@@ -36,16 +36,8 @@ The project is organized into the following sections:
 2. **Methodology**
    - Data Preprocessing
    - Model Selection and Training
-     - Decision Tree
-     - Random Forest
-     - KNN
-     - Gaussian Naive Bayes
 3. **Evaluation**
    - Performance Metrics
-     - Accuracy
-     - Precision
-     - Recall
-     - F1 Score
 4. **Results and Discussion**
 5. **Conclusion**
 6. **References**
